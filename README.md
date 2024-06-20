@@ -7,3 +7,7 @@ Users can refer to [here](./prepare_mtx.ipynb) for details.
 
 ## 2. Invoke SURE to call metacells
 Users can refer to [here](./SURE_train.ipynb) for details.
+
+## 3. Aggregate transcriptome profiles of cells
+Users can refer to [here](./metacell_transcriptome.ipynb) for details.
+
