@@ -4,3 +4,6 @@ This repository provides example code that demonstrates how to utilize SURE to c
 
 ## 1. Prepare input files for SURE
 Users can refer to [here](./prepare_mtx.ipynb) for details.
+
+## 2. Invoke SURE to call metacells
+Users can refer to [here](./prepare_mtx.ipynb) for details.
